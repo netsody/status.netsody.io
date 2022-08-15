@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Super-Peer Frankfurt 1, Germany",
+    "url": "http://sp-fra1.drasyl.org:443",
+    "icon": "https://docs.drasyl.org/img/favicon.ico",
+    "slug": "super-peer-frankfurt-1-germany",
+    "status": "up",
+    "uptime": "98.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "98.26%",
+    "time": 376,
+    "timeDay": 354,
+    "timeWeek": 376,
+    "timeMonth": 376,
+    "timeYear": 376,
+    "dailyMinutesDown": {
+      "2022-11-29": 46
+    }
+  },
+  {
+    "name": "Super-Peer Nuremberg 2, Germany",
+    "url": "http://sp-nbg2.drasyl.org:443",
+    "icon": "https://docs.drasyl.org/img/favicon.ico",
+    "slug": "super-peer-nuremberg-2-germany",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 349,
+    "timeDay": 356,
+    "timeWeek": 349,
+    "timeMonth": 349,
+    "timeYear": 349,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Super-Peer Logroño 1, Spain",
+    "url": "http://sp-rjl1.drasyl.org:443",
+    "icon": "https://docs.drasyl.org/img/favicon.ico",
+    "slug": "super-peer-logrono-1-spain",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 324,
+    "timeDay": 339,
+    "timeWeek": 324,
+    "timeMonth": 324,
+    "timeYear": 324,
+    "dailyMinutesDown": {}
+  }
+]

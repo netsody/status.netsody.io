@@ -1,0 +1,44 @@
+# Change these first
+owner: drasyl # Your GitHub organization or username, where this repository lives
+repo: status.drasyl.org # The name of this repository
+
+sites:
+  - name: Super-Peer Frankfurt 1, Germany
+    url: "http://sp-fra1.drasyl.org:443"
+    icon: https://docs.drasyl.org/img/favicon.ico
+  - name: Super-Peer Nuremberg 2, Germany 
+    url: "http://sp-nbg2.drasyl.org:443"
+    icon: https://docs.drasyl.org/img/favicon.ico
+  - name: Super-Peer Logroño 1, Spain
+    url: "http://sp-rjl1.drasyl.org:443"
+    icon: https://docs.drasyl.org/img/favicon.ico
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: status.drasyl.org
+  # baseUrl: /your-repo-name
+  logoUrl: https://docs.drasyl.org/img/logo.svg
+  favicon: https://docs.drasyl.org/img/favicon.ico
+  faviconSvg: https://docs.drasyl.org/img/logo.svg
+  name: drasyl Status
+  introTitle: "drasyl's super-peers status page"
+  introMessage: "**drasyl** is a general-purpose overlay network framework for rapid development of distributed P2P applications."
+  links:
+    - rel: stylesheet
+      href: https://status.drasyl.org/custom.css
+  navbar:
+    - title: Status
+      href: /
+    - title: Website
+      href: https://drasyl.org
+    - title: Docs
+      href: https://docs.drasyl.org
+    - title: GitHub
+      href: https://github.com/drasyl/drasyl
+
+commitMessages:
+  commitAuthorName: "drasyl-bot"
+  commitAuthorEmail: "drasyl-bot@users.noreply.github.com"
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
