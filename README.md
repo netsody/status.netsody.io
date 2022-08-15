@@ -28,20 +28,20 @@ drasyl node without having to write configuration files or provide IP addresses 
 
 # Features
 
-* Provides Communication Channels between any two Nodes (on the Internet).
-* Automatic Discovery of Peers running within same Process, Computer, LAN, or the Internet.
-* Automatic Handover to most local Route.
-* Overcomes Network Barriers (Stateful Firewalls, NATs).
-* UDP Hole Punching.
-* Port Mapping (UPnP-IGD, NAT-PMP, PCP).
-* Communication is (PFS) encrypted.
-* Reacts to Network Connection Changes.
-* Asynchronous and Event-Driven.
-* Lightweight.
-* Extensible.
+- Provides Communication Channels between any two Nodes (on the Internet).
+- Automatic Discovery of Peers running within same Process, Computer, LAN, or the Internet.
+- Automatic Handover to most local Route.
+- Overcomes Network Barriers (Stateful Firewalls, NATs).
+- UDP Hole Punching.
+- Port Mapping (UPnP-IGD, NAT-PMP, PCP).
+- Communication is (PFS) encrypted.
+- Reacts to Network Connection Changes.
+- Asynchronous and Event-Driven.
+- Lightweight.
+- Extensible.
 
 # Usage & Documentation
 
-* [Getting Started](https://docs.drasyl.org/getting-started/)
-* [Configuration](https://docs.drasyl.org/configuration/)
-* [Command Line Interface](https://docs.drasyl.org/cli/)
+- [Getting Started](https://docs.drasyl.org/getting-started/)
+- [Configuration](https://docs.drasyl.org/configuration/)
+- [Command Line Interface](https://docs.drasyl.org/cli/)
