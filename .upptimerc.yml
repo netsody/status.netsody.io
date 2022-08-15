@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://docs.drasyl.org/assets/img/drasyl.svg
   name: drasyl Status
   introTitle: "drasyl's super-peers status page"
-  introMessage: **drasyl** is a general-purpose overlay network framework for rapid development of distributed P2P applications.
+  introMessage: "**drasyl** is a general-purpose overlay network framework for rapid development of distributed P2P applications."
   navbar:
     - title: Status
       href: /
