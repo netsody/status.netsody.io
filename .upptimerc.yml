@@ -26,7 +26,7 @@ status-website:
       href: /
     - title: Website
       href: https://drasyl.org
-   - title: Docs
+    - title: Docs
       href: https://docs.drasyl.org
     - title: GitHub
       href: https://github.com/drasyl-overlay/drasyl
