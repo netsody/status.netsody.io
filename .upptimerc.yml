@@ -1,0 +1,65 @@
+# Change these first
+owner: netsody # Your GitHub organization or username, where this repository lives
+repo: status.netsody.io # The name of this repository
+
+sites:
+  - name: Super-Peer Europe Central 1
+    url: "http://sp-eu-central-1.netsody.io:9898"
+    icon: https://docs.netsody.io/img/favicon.ico
+    expectedStatusCodes:
+      - 404
+  - name: Super-Peer North America East 1
+    url: "http://sp-na-east-1.netsody.io:9898"
+    icon: https://docs.netsody.io/img/favicon.ico
+    expectedStatusCodes:
+      - 404
+  - name: Super-Peer Asia Pacific South 1
+    url: "http://sp-ap-south-1.netsody.io:9898"
+    icon: https://docs.netsody.io/img/favicon.ico
+    expectedStatusCodes:
+      - 404
+  - name: Homepage
+    url: "https://netsody.io"
+    icon: https://docs.netsody.io/img/favicon.ico
+    expectedStatusCodes:
+      - 200
+  - name: Download Repository
+    url: "https://download.netsody.io"
+    icon: https://docs.netsody.io/img/favicon.ico
+    expectedStatusCodes:
+      - 200
+  - name: SSO Service
+    url: "https://auth.netsody.io"
+    icon: https://docs.netsody.io/img/favicon.ico
+    expectedStatusCodes:
+      - 200
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: status.netsody.io
+  # baseUrl: /your-repo-name
+  logoUrl: https://docs.netsody.io/img/logo.svg
+  favicon: https://docs.netsody.io/img/favicon.ico
+  faviconSvg: https://docs.netsody.io/img/logo.svg
+  name: Netsody Status
+  introTitle: "Netsody's service status page"
+  introMessage: "**Netsody** is a general-purpose overlay network framework for rapid development of distributed P2P applications."
+  links:
+    - rel: stylesheet
+      href: https://status.netsody.io/assets/custom.css
+  navbar:
+    - title: Status
+      href: /
+    - title: Website
+      href: https://netsody.io
+    - title: Docs
+      href: https://docs.netsody.io
+    - title: GitHub
+      href: https://github.com/netsody/netsody
+
+commitMessages:
+  commitAuthorName: "Netsody Bot"
+  commitAuthorEmail: "netsody-bot@users.noreply.github.com"
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration

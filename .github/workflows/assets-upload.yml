@@ -1,0 +1,28 @@
+# Uploads the contents of the assets folder.
+
+name: Upload Assets to GitHub Pages
+
+on:
+  push:
+    paths:
+      - 'assets/**'
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Build output to publish to the `gh-pages` branch:
+          publish_dir: ./assets
+          destination_dir: assets
+          user_name: drasyl-bot
+          user_email: drasyl-bot@users.noreply.github.com
