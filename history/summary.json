@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "super-peer-frankfurt-1",
     "status": "up",
-    "uptime": "82.30%",
-    "uptimeDay": "82.30%",
-    "uptimeWeek": "82.30%",
-    "uptimeMonth": "82.30%",
-    "uptimeYear": "82.30%",
-    "time": 140,
-    "timeDay": 140,
-    "timeWeek": 140,
-    "timeMonth": 140,
-    "timeYear": 140,
-    "dailyMinutesDown": {
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 133,
+    "timeDay": 133,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Super-Peer Nuremberg 2",
@@ -24,17 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "super-peer-nuremberg-2",
     "status": "up",
-    "uptime": "82.76%",
-    "uptimeDay": "82.76%",
-    "uptimeWeek": "82.76%",
-    "uptimeMonth": "82.76%",
-    "uptimeYear": "82.76%",
-    "time": 135,
-    "timeDay": 135,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
-    "dailyMinutesDown": {
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 134,
+    "timeDay": 134,
+    "timeWeek": 134,
+    "timeMonth": 134,
+    "timeYear": 134,
+    "dailyMinutesDown": {}
   }
 ]
