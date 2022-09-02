@@ -22,17 +22,19 @@
     "url": "http://sp-nbg2.drasyl.org:443",
     "icon": "https://favicons.githubusercontent.com/sp-nbg2.drasyl.org",
     "slug": "super-peer-nuremberg-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 348,
-    "timeDay": 340,
+    "timeDay": 338,
     "timeWeek": 351,
     "timeMonth": 348,
     "timeYear": 348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-02": 0
+    }
   }
 ]
