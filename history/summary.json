@@ -4,19 +4,19 @@
     "url": "http://sp-fra1.drasyl.org:443",
     "icon": "https://favicons.githubusercontent.com/sp-fra1.drasyl.org",
     "slug": "super-peer-frankfurt-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 391,
+    "time": 371,
+    "timeDay": 390,
     "timeWeek": 380,
-    "timeMonth": 372,
-    "timeYear": 372,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2022-09-05": 0
+      "2022-09-05": 1
     }
   },
   {
