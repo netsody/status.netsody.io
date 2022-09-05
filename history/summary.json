@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/sp-fra1.drasyl.org",
     "slug": "super-peer-frankfurt-1",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 390,
-    "timeWeek": 380,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 372,
+    "timeDay": 392,
+    "timeWeek": 381,
+    "timeMonth": 372,
+    "timeYear": 372,
     "dailyMinutesDown": {
-      "2022-09-05": 1
+      "2022-09-05": 3
     }
   },
   {
@@ -31,7 +31,7 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 349,
-    "timeDay": 352,
+    "timeDay": 355,
     "timeWeek": 349,
     "timeMonth": 349,
     "timeYear": 349,
