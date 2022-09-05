@@ -4,7 +4,7 @@
     "url": "http://sp-fra1.drasyl.org:443",
     "icon": "https://favicons.githubusercontent.com/sp-fra1.drasyl.org",
     "slug": "super-peer-frankfurt-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 380,
     "timeMonth": 372,
     "timeYear": 372,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-05": 0
+    }
   },
   {
     "name": "Super-Peer Nuremberg 2",
