@@ -2,7 +2,7 @@
   {
     "name": "Super-Peer Frankfurt 1",
     "url": "http://sp-fra1.drasyl.org:443",
-    "icon": "https://icons.duckduckgo.com/ip3/sp-fra1.drasyl.org.ico",
+    "icon": "https://favicons.githubusercontent.com/sp-fra1.drasyl.org",
     "slug": "super-peer-frankfurt-1",
     "status": "up",
     "uptime": "100.00%",
@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 373,
-    "timeDay": 353,
+    "timeDay": 355,
     "timeWeek": 365,
     "timeMonth": 372,
     "timeYear": 373,
@@ -20,7 +20,7 @@
   {
     "name": "Super-Peer Nuremberg 2",
     "url": "http://sp-nbg2.drasyl.org:443",
-    "icon": "https://icons.duckduckgo.com/ip3/sp-nbg2.drasyl.org.ico",
+    "icon": "https://favicons.githubusercontent.com/sp-nbg2.drasyl.org",
     "slug": "super-peer-nuremberg-2",
     "status": "up",
     "uptime": "100.00%",
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 359,
-    "timeDay": 364,
-    "timeWeek": 361,
+    "timeDay": 365,
+    "timeWeek": 360,
     "timeMonth": 366,
     "timeYear": 359,
     "dailyMinutesDown": {}
