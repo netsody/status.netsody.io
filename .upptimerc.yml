@@ -26,7 +26,7 @@ status-website:
   introMessage: "**drasyl** is a general-purpose overlay network framework for rapid development of distributed P2P applications."
   links:
     - rel: stylesheet
-      href: https://status.drasyl.org/custom.css
+      href: https://status.drasyl.org/assets/custom.css
   navbar:
     - title: Status
       href: /
