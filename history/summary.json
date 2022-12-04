@@ -42,19 +42,19 @@
     "url": "http://sp-rjl1.drasyl.org:443",
     "icon": "https://docs.drasyl.org/img/favicon.ico",
     "slug": "super-peer-logrono-1-spain",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 610,
-    "timeWeek": 419,
-    "timeMonth": 419,
-    "timeYear": 419,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 391,
+    "timeDay": 432,
+    "timeWeek": 391,
+    "timeMonth": 391,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2022-12-04": 0
+      "2022-12-04": 14
     }
   }
 ]
