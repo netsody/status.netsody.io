@@ -5,16 +5,16 @@
     "icon": "https://docs.drasyl.org/img/favicon.ico",
     "slug": "super-peer-frankfurt-1-germany",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 386,
-    "timeDay": 480,
-    "timeWeek": 404,
-    "timeMonth": 386,
-    "timeYear": 386,
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 390,
+    "timeDay": 453,
+    "timeWeek": 410,
+    "timeMonth": 390,
+    "timeYear": 390,
     "dailyMinutesDown": {
       "2022-11-29": 46
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 292,
-    "timeWeek": 336,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "time": 364,
+    "timeDay": 443,
+    "timeWeek": 341,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 343,
-    "timeDay": 318,
-    "timeWeek": 356,
-    "timeMonth": 343,
-    "timeYear": 343,
+    "time": 350,
+    "timeDay": 473,
+    "timeWeek": 371,
+    "timeMonth": 350,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2022-12-04": 14
     }
