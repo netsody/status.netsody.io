@@ -3,14 +3,17 @@ owner: drasyl # Your GitHub organization or username, where this repository live
 repo: status.drasyl.org # The name of this repository
 
 sites:
-  - name: Super-Peer Frankfurt 1, Germany
-    url: "http://sp-fra1.drasyl.org:443"
-    icon: https://docs.drasyl.org/img/favicon.ico
-  - name: Super-Peer Nuremberg 2, Germany 
-    url: "http://sp-nbg2.drasyl.org:443"
+  - name: Baden-Baden 1, Germany
+    url: "http://sp-fkb1.drasyl.org:443"
     icon: https://docs.drasyl.org/img/favicon.ico
   - name: Super-Peer Logroño 1, Spain
     url: "http://sp-rjl1.drasyl.org:443"
+    icon: https://docs.drasyl.org/img/favicon.ico
+  - name: Super-Peer New York City 1, USA
+    url: "http://sp-nyc1.drasyl.org:443"
+    icon: https://docs.drasyl.org/img/favicon.ico
+  - name: Super-Peer Singapur 1, Singapur
+    url: "http://sp-sgp1.drasyl.org:443"
     icon: https://docs.drasyl.org/img/favicon.ico
 
 status-website:
