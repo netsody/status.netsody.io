@@ -1,40 +1,20 @@
 [
   {
-    "name": "Super-Peer Frankfurt 1, Germany",
-    "url": "http://sp-fra1.drasyl.org:443",
+    "name": "Baden-Baden 1, Germany",
+    "url": "http://sp-fkb1.drasyl.org:443",
     "icon": "https://docs.drasyl.org/img/favicon.ico",
-    "slug": "super-peer-frankfurt-1-germany",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 399,
-    "timeDay": 225,
-    "timeWeek": 429,
-    "timeMonth": 399,
-    "timeYear": 399,
-    "dailyMinutesDown": {
-      "2022-11-29": 46
-    }
-  },
-  {
-    "name": "Super-Peer Nuremberg 2, Germany",
-    "url": "http://sp-nbg2.drasyl.org:443",
-    "icon": "https://docs.drasyl.org/img/favicon.ico",
-    "slug": "super-peer-nuremberg-2-germany",
+    "slug": "baden-baden-1-germany",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 362,
-    "timeWeek": 370,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   },
   {
@@ -56,5 +36,43 @@
     "dailyMinutesDown": {
       "2022-12-04": 14
     }
+  },
+  {
+    "name": "Super-Peer New York City 1, USA",
+    "url": "http://sp-nyc1.drasyl.org:443",
+    "icon": "https://docs.drasyl.org/img/favicon.ico",
+    "slug": "super-peer-new-york-city-1-usa",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-12-22": 4
+    }
+  },
+  {
+    "name": "Super-Peer Singapur 1, Singapur",
+    "url": "http://sp-sgp1.drasyl.org:443",
+    "icon": "https://docs.drasyl.org/img/favicon.ico",
+    "slug": "super-peer-singapur-1-singapur",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
