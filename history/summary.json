@@ -22,9 +22,9 @@
     "url": "http://sp-na-east-1.netsody.io:9898",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "super-peer-north-america-east-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 230,
     "timeMonth": 213,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-05": 0
+    }
   },
   {
     "name": "Super-Peer Asia Pacific South 1",
