@@ -58,10 +58,10 @@
     "url": "https://netsody.io",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 640,
@@ -69,16 +69,18 @@
     "timeWeek": 630,
     "timeMonth": 646,
     "timeYear": 640,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-10": 1
+    }
   },
   {
     "name": "Download Repository",
     "url": "https://download.netsody.io",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "download-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,16 +89,18 @@
     "timeWeek": 521,
     "timeMonth": 489,
     "timeYear": 495,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-10": 0
+    }
   },
   {
     "name": "SSO Service",
     "url": "https://auth.netsody.io",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "sso-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +109,8 @@
     "timeWeek": 849,
     "timeMonth": 882,
     "timeYear": 871,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-10": 0
+    }
   }
 ]
