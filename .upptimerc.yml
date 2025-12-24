@@ -33,6 +33,16 @@ sites:
     icon: https://docs.netsody.io/img/favicon.ico
     expectedStatusCodes:
       - 200
+  - name: API
+    url: "https://api.netsody.io/api"
+    icon: https://docs.netsody.io/img/favicon.ico
+    expectedStatusCodes:
+      - 404
+  - name: Dashboard
+    url: "https://my.netsody.io"
+    icon: https://docs.netsody.io/img/favicon.ico
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
