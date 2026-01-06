@@ -58,9 +58,9 @@
     "url": "https://netsody.io",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
@@ -70,6 +70,7 @@
     "timeMonth": 735,
     "timeYear": 669,
     "dailyMinutesDown": {
+      "2026-01-06": 0,
       "2025-12-22": 58
     }
   },
@@ -78,9 +79,9 @@
     "url": "https://download.netsody.io",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "download-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,16 +90,18 @@
     "timeWeek": 462,
     "timeMonth": 482,
     "timeYear": 489,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-06": 0
+    }
   },
   {
     "name": "SSO Service",
     "url": "https://auth.netsody.io",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "sso-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,25 +110,28 @@
     "timeWeek": 825,
     "timeMonth": 880,
     "timeYear": 874,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-06": 0
+    }
   },
   {
     "name": "API",
     "url": "https://api.netsody.io/api",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 644,
     "timeDay": 504,
     "timeWeek": 459,
     "timeMonth": 644,
     "timeYear": 644,
     "dailyMinutesDown": {
+      "2026-01-06": 0,
       "2025-12-24": 106
     }
   },
@@ -134,9 +140,9 @@
     "url": "https://my.netsody.io",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,6 +151,8 @@
     "timeWeek": 454,
     "timeMonth": 459,
     "timeYear": 459,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-06": 0
+    }
   }
 ]
