@@ -65,8 +65,8 @@ status-website:
       href: https://netsody.io
     - title: Docs
       href: https://docs.netsody.io
-    - title: GitHub
-      href: https://github.com/netsody/netsody
+    - title: Dashboard
+      href: https://my.netsody.io
 
 commitMessages:
   commitAuthorName: "Netsody Bot"
