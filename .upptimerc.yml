@@ -29,7 +29,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: SSO Service
-    url: "https://auth.netsody.io"
+    url: "https://login.netsody.io"
     icon: https://docs.netsody.io/img/favicon.ico
     expectedStatusCodes:
       - 200
