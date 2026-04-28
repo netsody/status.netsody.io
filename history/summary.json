@@ -82,10 +82,10 @@
     "url": "https://download.netsody.io",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "download-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 465,
@@ -93,17 +93,19 @@
     "timeWeek": 488,
     "timeMonth": 460,
     "timeYear": 465,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-28": 2
+    }
   },
   {
     "name": "SSO Service",
     "url": "https://login.netsody.io",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "sso-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 940,
@@ -112,6 +114,7 @@
     "timeMonth": 1061,
     "timeYear": 940,
     "dailyMinutesDown": {
+      "2026-04-28": 2,
       "2026-01-22": 267
     }
   },
@@ -120,10 +123,10 @@
     "url": "https://api.netsody.io/api",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 472,
@@ -132,6 +135,7 @@
     "timeMonth": 458,
     "timeYear": 472,
     "dailyMinutesDown": {
+      "2026-04-28": 2,
       "2025-12-24": 106
     }
   },
@@ -140,9 +144,9 @@
     "url": "https://my.netsody.io",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.84%",
@@ -152,6 +156,7 @@
     "timeMonth": 507,
     "timeYear": 481,
     "dailyMinutesDown": {
+      "2026-04-28": 0,
       "2026-04-20": 73,
       "2026-01-11": 18,
       "2026-01-06": 202
