@@ -53,21 +53,27 @@ status-website:
   hideNavTitle: true
   favicon: https://docs.netsody.io/img/favicon.ico
   faviconSvg: https://docs.netsody.io/img/logo.svg
-  name: Netsody Status
-  introTitle: "Netsody's service status page"
-  introMessage: "**Netsody** is a general-purpose overlay network framework for rapid development of distributed P2P applications."
+  name: Netsody Status Page
+  introTitle: "Status Page"
+  introMessage: "Netsody is a Zero Trust Network Access platform for centrally managed, identity-aware access across users, devices, services, and private networks."
   links:
     - rel: stylesheet
       href: https://status.netsody.io/assets/custom.css
   navbar:
-    - title: Status
-      href: /
-    - title: Website
+    - title: Home
       href: https://netsody.io
+    - title: Use Cases
+      href: https://netsody.io/#use-cases
     - title: Documentation
       href: https://docs.netsody.io
-    - title: Dashboard
-      href: https://my.netsody.io
+    - title: Blog
+      href: https://netsody.io/blog/
+    - title: About
+      href: https://netsody.io/about/
+    - title: Sign In
+      href: https://my.netsody.io/
+    - title: Get Started
+      href: mailto:hello@netsody.io
 
 commitMessages:
   commitAuthorName: "Netsody Bot"
