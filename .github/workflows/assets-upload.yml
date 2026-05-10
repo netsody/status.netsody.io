@@ -14,6 +14,8 @@ jobs:
   deploy:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       
@@ -25,4 +27,4 @@ jobs:
           publish_dir: ./assets
           destination_dir: assets
           user_name: drasyl-bot
-          user_email: drasyl-bot@users.noreply.github.com
+          user_email: netsody-bot@users.noreply.github.com
