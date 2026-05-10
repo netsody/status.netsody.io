@@ -53,27 +53,21 @@ status-website:
   hideNavTitle: true
   favicon: https://docs.netsody.io/img/favicon.ico
   faviconSvg: https://docs.netsody.io/img/logo.svg
-  name: Netsody Status Page
   introTitle: "Status Page"
   introMessage: "Netsody is a Zero Trust Network Access platform for centrally managed, identity-aware access across users, devices, services, and private networks."
+  name: Netsody Status
   links:
     - rel: stylesheet
       href: https://status.netsody.io/assets/custom.css
   navbar:
     - title: Home
       href: https://netsody.io
-    - title: Use Cases
-      href: https://netsody.io/#use-cases
+    - title: Status
+      href: /
     - title: Documentation
       href: https://docs.netsody.io
-    - title: Blog
-      href: https://netsody.io/blog/
-    - title: About
-      href: https://netsody.io/about/
     - title: Sign In
-      href: https://my.netsody.io/
-    - title: Get Started
-      href: mailto:hello@netsody.io
+      href: https://my.netsody.io
 
 commitMessages:
   commitAuthorName: "Netsody Bot"
