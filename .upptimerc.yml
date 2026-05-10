@@ -49,7 +49,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.netsody.io
   # baseUrl: /your-repo-name
-  logoUrl: https://docs.netsody.io/img/logo.svg
+  logoUrl: https://netsody.io/img/Netsody-Logo_emerald.svg
+  hideNavTitle: true
   favicon: https://docs.netsody.io/img/favicon.ico
   faviconSvg: https://docs.netsody.io/img/logo.svg
   name: Netsody Status
@@ -63,7 +64,7 @@ status-website:
       href: /
     - title: Website
       href: https://netsody.io
-    - title: Docs
+    - title: Documentation
       href: https://docs.netsody.io
     - title: Dashboard
       href: https://my.netsody.io
