@@ -40,21 +40,21 @@
     "url": "http://sp-ap-south-1.netsody.io:9898",
     "icon": "https://docs.netsody.io/img/favicon.ico",
     "slug": "super-peer-asia-pacific-south-1",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.86%",
-    "time": 513,
-    "timeDay": 373,
-    "timeWeek": 496,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.84%",
+    "time": 512,
+    "timeDay": 423,
+    "timeWeek": 493,
     "timeMonth": 477,
-    "timeYear": 513,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2026-04-28": 235,
       "2026-06-03": 285,
-      "2026-06-07": 0
+      "2026-06-07": 81
     }
   },
   {
