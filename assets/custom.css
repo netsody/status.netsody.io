@@ -111,6 +111,11 @@ nav {
 }
 
 nav > .container {
+    /* The links stop fitting next to the logo below roughly 730px, which is
+       above the mobile breakpoint, so the bar wraps wherever that happens
+       rather than at a fixed width. Wrapping is inert while everything fits. */
+    flex-wrap: wrap;
+    row-gap: 0.15rem;
     min-height: 4.45rem;
     padding: 0.48rem 0.55rem 0.48rem 0.9rem;
     border: 1px solid rgba(255, 255, 255, 0.68);
@@ -135,6 +140,7 @@ nav .logo img {
 }
 
 nav ul {
+    flex-wrap: wrap;
     gap: 0.4rem;
 }
 
@@ -352,13 +358,19 @@ footer a {
         width: min(100% - 2.4rem, 1120px);
     }
 
+    /* Dropping `overflow-x: auto` leaves the base rule's `visible`: a sideways
+       scroll has nothing to announce itself with, and it drags the links out of
+       the card and onto the page background. The bar wraps instead (see
+       `nav > .container` above), and the wrapped bar is too tall to keep pinned
+       over the content on a phone. */
     nav {
+        position: static;
         margin-bottom: 2.4rem;
-        overflow-x: auto;
     }
 
     nav > .container {
         width: min(100% - 1.2rem, 1120px);
+        justify-content: center;
     }
 
     nav ul {
@@ -373,9 +385,13 @@ footer a {
         border-radius: 8px;
     }
 
+    /* Full width here, so the graph is clipped to the padding box: painted to
+       the border box it reaches into the rounded bottom corners and squares
+       them off. */
     article.graph {
         min-height: 16rem;
         padding-bottom: 8.5rem;
+        background-clip: padding-box !important;
         background-position: right bottom !important;
         background-size: 100% 8rem !important;
     }
