@@ -59,6 +59,9 @@ status-website:
   links:
     - rel: stylesheet
       href: https://status.netsody.io/custom.css
+  scripts:
+    - src: https://status.netsody.io/custom.js
+      async: true
   navbar:
     - title: Home
       href: https://netsody.io
